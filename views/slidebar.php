@@ -67,6 +67,10 @@
                             
                         </li>    
                         
+                        
+                        <li>
+                            <a href="<?= base_url('githubrepo/github/get_github')?>"><i class="fa fa-wrench fa-fw"></i> Descargar Repositorios<span class="fa arrow"></span></a>
+                        </li>
                        
                         
                     </ul>
